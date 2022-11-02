@@ -5,4 +5,4 @@ mv /home/coder/.config/coderv2/dotfiles ~/dotfiles
 sudo apt update
 sudo apt install -y rcm nano
 
-rcup -f -d ~/dotfiles -x README.md
+rcup -f -d ~/dotfiles -x README.md -x install.sh
