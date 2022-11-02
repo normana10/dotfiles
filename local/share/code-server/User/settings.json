@@ -1,5 +1,6 @@
 {
+    "git.confirmSync": false,
+    "editor.formatOnSave": true,
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "editor.formatOnSave": true
+    "workbench.colorTheme": "Visual Studio Dark"
 }
